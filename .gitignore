@@ -1,0 +1,12 @@
+CLAUDE.md
+config.h
+dmenu
+dmenu-norbiox-git-*
+dmenu-norbiox-git/
+dmenu.o
+drw.o
+pkg/
+src/
+stest
+stest.o
+util.o
